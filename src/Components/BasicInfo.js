@@ -64,11 +64,9 @@ function BasicInfo() {
                 <img src={profile} alt='at work image' />
             </div>
             <div className='descrip-content'>
-                <h4>The Basics...</h4>
+                <h4>Some Background...</h4>
                 <p className='paragraph'>
-                I grew up in the Pacific Northwest during the 2000's. The proliferation of frohawks, MySpace and reality television
-                somehow sparked an affinity to mixed media. Most of my 20's and early 30's were spent working in broadcasting and digital media.
-                I now excel in full-stack web-development.
+               I was born and grew up in a small town in central New Jersey. After I graduted high school in 2009 I attended West Viriginia University in Morgantown, WV (Go Mountaineers!). 
                 </p>
                 <div className='basic-info'>
                     <div className='info-title'>
@@ -77,15 +75,15 @@ function BasicInfo() {
                         <p>Location</p>
                         <p>School</p>
                         <p>Postion</p>
-                        <p>Special</p>
+                        <p>Favorite Activity</p>
                     </div>
                     <div className='info'>
-                        <p>:    William Darkins</p>
-                        <p>:    33</p>
+                        <p>:    Ben Tantillo</p>
+                        <p>:    31</p>
                         <p>:    Portland, OR</p>
-                        <p>:    Oregon State University</p>
-                        <p>:    Digital Content Director, Audacy Portland</p>
-                        <p>:    Impeccable Edward James Olmos impression </p>
+                        <p>:    West Virginia University + University of Oregon</p>
+                        <p>:    Retail Supervisor / Web Developer</p>
+                        <p>:    Hiking and Mountaineering </p>
                     </div>
                 </div>
                 <div className='Button'>
