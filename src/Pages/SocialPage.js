@@ -24,7 +24,7 @@ function Social() {
                     }
                 },
             }}>
-                <Title title={'Social'} />
+                <Title title={'Coming Soon...'} />
                 <InstagramCard />
                 <InnerLayout>
                     <SocialGrid post={post} />

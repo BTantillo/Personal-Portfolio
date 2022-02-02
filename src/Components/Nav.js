@@ -1,8 +1,8 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import styled from 'styled-components'
-import profile from '../Images/Profile-Pic.jpg'
-import artProfile from '../Images/PROFILE PIC_ARTY.jpg'
+import profile from '../Images/Head-shot.jpg'
+import artProfile from '../Images/Nav-Pic.jpg'
 import { motion } from 'framer-motion';
 
 //styles variable from styled-components dependency applied to Nav
@@ -84,7 +84,7 @@ function Nav() {
                     </motion.li>
                     <motion.li whileHover={{scale: 1.2, transition: { duration: .2 }}}
                 className='list-item'>
-                    <NavLink className={'menu-item'} exact to='/social' activeClassName='active-class'>Social</NavLink>
+                    <NavLink className={'menu-item'} exact to='/social' activeClassName='active-class'> </NavLink>
                     </motion.li>
                     <motion.li whileHover={{scale: 1.2, transition: { duration: .2 }}}
                 className='list-item'>

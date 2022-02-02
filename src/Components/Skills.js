@@ -63,16 +63,16 @@ function Skills() {
                     <div className='mid-card'>
                         <ServiceCard
                             icon={design}
-                            title={'Graphic Design'}
-                            paragraph={' Five years experience using Adobe Photoshop and other pixel editing software to create engaging banners & social posts for companies. '}
+                            title={'Mountaineering'}
+                            paragraph={' Ever since I moved out to Oregon I became entranced by the natural beauty. So I took up hiking, and then that lead to mountaineering. I started off small then built my way up and now I am on my way to climbing the six volcanos arounds the PNW '}
                         />
                     </div>
                     <div className='last-card'>
                     <ServiceCard
                         button={'LISTEN!'}
                         icon={podcast}
-                        title={'Podcasting/Audio Design'}
-                        paragraph={' Producer/Host of sports radio show airing Saturday morning. Experience using DAW software to produce podcasts, commercials and audio vignettes '}
+                        title={'Communcations'}
+                        paragraph={' For the past ten years I have been in customer service in various '}
                     />
                     </div>
                 </div>

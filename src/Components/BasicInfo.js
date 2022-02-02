@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import profile from '../Images/Profile-Pic.jpg'
+import profile from '../Images/Head-shot.jpg'
 import Button from '@mui/material/Button';
 
 const InfoStyles = styled.div`
@@ -89,7 +89,7 @@ function BasicInfo() {
                 <div className='Button'>
                     <Button variant="contained" size="large">
                        <a href='https://docs.google.com/document/d/1uLVe2rlOxss92WbZRckPIwKWaXXrb6mQRbAsTXHgVSE/edit' target='_blank' rel='noopener noreferrer'>
-                           View Full CV </a>
+                           Click for Full Resume </a>
                     </Button>
                 </div>
             </div>

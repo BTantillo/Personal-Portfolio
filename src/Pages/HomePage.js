@@ -75,9 +75,7 @@ function HomePage() {
                 <div className='intro'>
                     <h1>Hello! I'm Ben <span>Welcome to My World</span></h1>
                     <p>
-                    I've been in the business of making things my entire adult life. Whether it was creating cirtical television segments, writing/producing engaging radio commercials or
-                    developing full-stack web applications, I've never stopped learning and pushing personal creative boundries. My specialty is front-end REACT focused web-design, creating 
-                    engaging visual posts for Instagram and effectivley communicating project goals. I'm excited for you check out my work!
+                    For as long as I can remember I have always had a sense of adventure. From the hills of New Jersey, the mountains of West Virginia 
                     </p>
                     <div className='icon-list'>
                         <a href='https://www.linkedin.com/in/benedict-tantillo-275a9a143/' className='icon' target="_blank" >
@@ -86,9 +84,7 @@ function HomePage() {
                         <a href='https://github.com/BTantillo' className='icon' target="_blank">
                             <GitHubIcon style={{ fontSize: 40 }} />
                         </a>
-                        <a href='https://vimeo.com/user156064740' className='icon' target="_blank">
-                            <Icon icon="mdi:vimeo" style={{ fontSize: 40 }} />
-                        </a>
+                       
                     </div>
                 </div>
             </motion.div>
