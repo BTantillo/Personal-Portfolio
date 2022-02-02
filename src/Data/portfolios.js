@@ -1,16 +1,16 @@
-import eCommerceORM from '../Images/portfolio/eCommerceORM.jpg'
-import employeeTracker from '../Images/portfolio/employeeTracker.jpg'
-import passwordGenerator from '../Images/portfolio/passwordGenerator.jpg'
-import readMeGenerator from '../Images/portfolio/readMeGenerator.jpg'
-import socialAPIShell from '../Images/portfolio/socialAPIShell.jpg'
-import teamBuilder from '../Images/portfolio/teamBuilder.jpg'
-import weatherDashboard from '../Images/portfolio/weatherDashboard.jpg'
+import PasswordGenerator from '../Images/portfolio/PasswordGenerator.jpg'
 import PhotoPort from '../Images/portfolio/PhotoPort.jpg'
 import WhatsHappenin from '../Images/portfolio/WhatsHappenin.jpg'
 import BudgetTracker from '../Images/portfolio/BudgetTracker.jpg'
 import PizzaHunt from '../Images/portfolio/PizzaHunt.jpg'
 import Swapsies from '../Images/portfolio/Swapsies.jpg'
 import FoodFestival from '../Images/portfolio/FoodFestival.jpg'
+import TaskmasterPro from '../Images/portfolio/TaskmasterPro.jpg'
+import SocialAPI from '../Images/portfolio/SocialAPI.jpg'
+import eCommORM from '../Images/portfolio/eCommORM.jpg'
+import EmployeeTracker from '../Images/portfolio/EmployeeTrack.jpg'
+import TeamBuild from '../Images/portfolio/TeamBuild.jpg'
+import ReadmeGen from '../Images/portfolio/ReadmeGen.jpg'
 
 const portfolios = [
     {
@@ -52,7 +52,7 @@ const portfolios = [
     {
         id: 5,
         category: 'Front-End',
-        image:  passwordGenerator,
+        image:  PasswordGenerator,
         link1: 'https://github.com/BTantillo/Password-Generator',
         link2: 'https://btantillo.github.io/Password-Generator/',
         title: 'Password Generator',
@@ -79,49 +79,49 @@ const portfolios = [
     {
         id: 8,
         category: 'Front-End',
-        image:  weatherDashboard,
+        image:  TaskmasterPro,
         link1: 'https://github.com/willdarkins/Server-Side-APIs_WK6_Darkins.git',
-        link2: 'https://willdarkins.github.io/Server-Side-APIs_WK6_Darkins/',
-        title: 'Weather Dashboard',
-        text: 'A weather tracking application using Accuweather API providing updated forecasts. Stores forecasts via localstorage.'
+        link2: 'https://btantillo.github.io/taskmaster-pro2/',
+        title: 'Taskmaster Pro',
+        text: ' A website designed to help people stay organized and can assign tasks to certain stages of development .'
     },
     {
         id: 9,
         category: 'Back-End',
-        image:  socialAPIShell,
-        link1: 'https://github.com/willdarkins/Social-Network-API-Shell.git',
-        title: 'Social Network API Shell',
-        text: 'A versitile social media focused API utilizing the NoSQL database MongoDB to manage large amounts of unstructured data on a daily basis.'
+        image:  SocialAPI,
+        link1: 'https://github.com/BTantillo/Social-Network-API-Challenge-18',
+        title: 'Social Network API',
+        text: 'A  social media API utilizing a NoSQL database and MongoDB to manage large amounts of unstructured data.'
     },
     {
         id: 10,
         category: 'Back-End',
-        image:  eCommerceORM,
-        link1: 'https://github.com/willdarkins/darkins_orm-e-commerce_wk13.git',
+        image:  eCommORM,
+        link1: 'https://github.com/BTantillo/ORM-Challenge-13',
         title: 'E-Commerce ORM',
-        text: 'Complete backend logic that utilizes latest technologies to improve performance and function of e-commerce applications in an increasingly competitve digital marketplace'
+        text: 'A full Object Relational Mapping backend that utilizes different technologies to improve performance and function of an e-commerce application'
     },
     {
         id: 11,
         category: 'Back-End',
-        image:  employeeTracker,
-        link1: 'https://github.com/willdarkins/darkins_employee-tracker_wk12.git',
-        title: 'Employee Tracker CMS',
-        text: 'A content managment system geared towards helping small business owners view and manage employee data counter to departments, roles, id\'s and salaries.'
+        image:  EmployeeTracker,
+        link1: 'https://github.com/BTantillo/Employee-Tracker',
+        title: 'Employee Tracker',
+        text: 'A program to be used by an employeer to track which employees work in which department, how much they make, who they report to in order to keep an accurate employee roster'
     },
     {
         id: 12,
         category: 'Back-End',
-        image:  teamBuilder,
-        link1: 'https://github.com/willdarkins/Darkins_OOP-Challenge.git',
-        title: 'Team Builder CLI',
-        text: 'A command line interface focused application allows managers to display basic information about team members.'
+        image:  TeamBuild,
+        link1: 'https://github.com/BTantillo/Team-Profile',
+        title: 'Team Builder',
+        text: 'A command line interface  application that allows employeers to display basic information about their team members.'
     },
     {
         id: 13,
         category: 'Back-End',
-        image:  readMeGenerator,
-        link1: 'https://github.com/willdarkins/Darkins_README-Generator_WK-9.git',
+        image:  ReadmeGen,
+        link1: 'https://github.com/BTantillo/README-Generator',
         title: 'README Generator',
         text: 'A README generator that uses Javascript and node.js to quickly create a professional README for a new project.'
     },
