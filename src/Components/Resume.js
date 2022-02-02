@@ -63,16 +63,16 @@ function Resume() {
                         text={'A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS'}
                     />
                     <ResumeItem
-                        year={'2016'}
-                        title={'Associates in Digital Broadcast Engineering, Mount Hood Community College'}
-                        subTitle={'University of Oregon - via Trilogy Education Services'}
-                        text={'Two year Integrated media program emphasizing development in audio, graphic and video skills that were applied during internship opportunities with local media outlets.'}
+                        year={'2017'}
+                        title={'Bachelor of Multidisciplinary Studies, West Viriginia University'}
+                        subTitle={'West Viriginia University'}
+                        text={'Four year program emphasizing in being a well rounded individual. Areas of study were Communication Studies, Business Adminstration and Advertising'}
                     />
                     <ResumeItem
-                        year={'2012'}
-                        title={'Bachelors in Speech Communication, Oregon State University'}
-                        subTitle={'University of Oregon - via Trilogy Education Services'}
-                        text={'Focused on developing  communication competence through the examination of both theoretical & practical aspects of human communication. Recognize the cultural and historical significance of rhetoric '}
+                        year={'2009'}
+                        title={'High School - Bernardsville High School'}
+                        subTitle={'Bernardsville High School'}
+                        text={'A small yet mighty school in the middle of New Jersey that helped teach young people how to best navigate the world we live in.'}
                     />
                 </div>
             </InnerLayout>
