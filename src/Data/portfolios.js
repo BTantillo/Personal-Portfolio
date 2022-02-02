@@ -1,4 +1,3 @@
-import budgetTracker from '../Images/portfolio/budgetTracker.jpg'
 import eCommerceORM from '../Images/portfolio/eCommerceORM.jpg'
 import employeeTracker from '../Images/portfolio/employeeTracker.jpg'
 import javascriptQuiz from '../Images/portfolio/javascriptQuiz.jpg'
@@ -11,6 +10,8 @@ import techBlog from '../Images/portfolio/techBlog.jpg'
 import weatherDashboard from '../Images/portfolio/weatherDashboard.jpg'
 import PhotoPort from '../Images/portfolio/PhotoPort.jpg'
 import WhatsHappenin from '../Images/portfolio/WhatsHappenin.jpg'
+import BudgetTracker from '../Images/portfolio/BudgetTracker.jpg'
+import PizzaHunt from '../Images/portfolio/PizzaHunt.jpg'
 
 const portfolios = [
     {
@@ -20,7 +21,7 @@ const portfolios = [
         link1: 'https://github.com/BTantillo/The-Final-Project',
         link2: 'https://fast-taiga-42173.herokuapp.com/',
         title: `Whats Happenin'`,
-        text: 'A full stack webpage utilizing React'
+        text: 'A full stack webpage utilizing React. It was created as an events page, where people could go to and post events they were hosting as well as see posted events and be able to comment on them.'
     },
     {
         id: 2,
@@ -29,16 +30,16 @@ const portfolios = [
         link1: 'https://github.com/BTantillo/Photo-Port',
         link2: 'https://btantillo.github.io/Photo-Port/',
         title: 'Photo Port',
-        text: 'A full stack CMS style blog site that allows developers to publish articles, write blog posts and express general thoughts on the computer science industry, while using a simple and attractive UI.'
+        text: `A React application meant to showcase a photographer's website, and display the different types of photos they could shoot. `
     },
     {
         id: 3,
         category: 'Front-End',
-        image: budgetTracker,
-        link1: 'https://github.com/willdarkins/budget-tracker-PWA.git',
-        link2: 'https://budget-tracker-darkins-v2.herokuapp.com/',
-        title: 'Budget Tracker PWA',
-        text: 'A simple budget tracking application with PWA capabilities, allowing users to track withdrawals and deposits with or without a data/internet connection and maintain an accurate balance while traveling.'
+        image: BudgetTracker,
+        link1: 'https://github.com/BTantillo/Budget-Tracker',
+        link2: 'https://nameless-lake-21665.herokuapp.com/',
+        title: 'Budget Tracker',
+        text: 'A  budget tracking application with Progressive Web Application functionality, allowing peoples to track their funds with or without a data/internet connection and maintain an accurate balance.'
     },
     {
         id: 4,
@@ -61,11 +62,11 @@ const portfolios = [
     {
         id: 6,
         category: 'Front-End',
-        image:  javascriptQuiz,
-        link1: 'https://github.com/willdarkins/API-Code-Quiz_WK4_Darkins.git',
-        link2: 'https://willdarkins.github.io/API-Code-Quiz_WK4_Darkins/',
-        title: 'Javascript Quiz',
-        text: 'A timed quiz that testing knowledge of basic vanilla JavaScript concepts, and tracks high scores .'
+        image:  PizzaHunt,
+        link1: 'https://github.com/BTantillo/pizza-hunt',
+        link2: 'https://morning-sea-67222.herokuapp.com/',
+        title: 'Pizza Hunt',
+        text: 'A website that allows you to create a pizza and post its ingredients, then have other people comment on said pizza toppings.'
     },
     {
         id: 7,
