@@ -68,12 +68,12 @@ function Resume() {
                         subTitle={'West Viriginia University'}
                         text={'Four year program emphasizing in being a well rounded individual. Areas of study were Communication Studies, Business Adminstration and Advertising'}
                     />
-                    <ResumeItem
+                    {/* <ResumeItem
                         year={'2009'}
                         title={'High School - Bernardsville High School'}
                         subTitle={'Bernardsville High School'}
                         text={'A small yet mighty school in the middle of New Jersey that helped teach young people how to best navigate the world we live in.'}
-                    />
+                    /> */}
                 </div>
             </InnerLayout>
         </ResumeStyles>

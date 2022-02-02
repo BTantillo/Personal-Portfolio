@@ -66,7 +66,7 @@ function BasicInfo() {
             <div className='descrip-content'>
                 <h4>Some Background...</h4>
                 <p className='paragraph'>
-               I was born and grew up in a small town in central New Jersey. After I graduted high school in 2009 I attended West Viriginia University in Morgantown, WV (Go Mountaineers!). 
+                I was born and grew up in a small town in central New Jersey. After I gradated high school in 2009, I attended West Virginia University in Morgantown, WV (Go Mountaineers!). I lived and worked in West Virginia for over eight years, and then moved up to Boston, Massachusetts in the Summer of 2017. I lived there for three years, before packing up my car and moving west in April 2020. I currently live in Portland, Oregon and will reside here until I fulfil my goal of climbing the six giant volcanos in the Pacific Northwest. While living in Portland I took a coding bootcamp through the University of Oregon and I have just started my web developer career.  
                 </p>
                 <div className='basic-info'>
                     <div className='info-title'>
@@ -88,7 +88,7 @@ function BasicInfo() {
                 </div>
                 <div className='Button'>
                     <Button variant="contained" size="large">
-                       <a href='https://docs.google.com/document/d/1uLVe2rlOxss92WbZRckPIwKWaXXrb6mQRbAsTXHgVSE/edit' target='_blank' rel='noopener noreferrer'>
+                       <a href='https://docs.google.com/document/d/14Qpc6oa4bbvjMADzu7Tf18SVD-XUd8ZpHl8KO5ZH9JY/edit?usp=sharing' target='_blank' rel='noopener noreferrer'>
                            Click for Full Resume </a>
                     </Button>
                 </div>
