@@ -31,23 +31,23 @@ function Resume() {
                 </div>
                 <div className='resume-content'>
                     <ResumeItem
-                        year={'FEB 2018 - PRESENT'}
-                        title={'Digital Content Manager - Audacy Portland'}
-                        subTitle={'University of Oregon - via Trilogy Education Services'}
-                        text={' Directed digital content creation for 7 radio stations, working to capture brand image and increase audience engagement each week.'}
+                        year={'Nov 2020 - PRESENT'}
+                        title={'Supervisor - Danner'}
+                        subTitle={'Danner Boots'}
+                        text={'Serve ass Floor Manager, managing staff while attending to customers. Check in and put away all stock orders, as well as create POs for future orders.'}
                     />
                     <ResumeItem
-                        year={'MAY 2015 - PRESENT'}
-                        title={'Producer/Host - ESPN Sports Radio 1080 The FAN'}
-                        subTitle={'University of Oregon - via Trilogy Education Services'}
-                        text={'Host and produce "Sinner and The Saint", a Saturday monring sports radio show that focuses on Pacific NW storylines and fun asides.'}
+                        year={'Sept 2017 - March 2020'}
+                        title={'Operations and Beer Hall Manager - Mass Bay Brewing Company'}
+                        subTitle={'Harpoon Brewery'}
+                        text={'Hire adn train all staff to perform multiple tasks. Supervise over 25 support staff and maintain staffing levels. Determine which new products to offer based on availibility. Maintain all equiptment to make sure everthing is operationg smoothly.'}
                     />
                     <div className='margin-bottom'>
                     <ResumeItem
-                        year={'JUL 2017 - MAY 2017'}
-                        title={'Producer - KPTV FOX 12 Oregon'}
-                        subTitle={'University of Oregon - via Trilogy Education Services'}
-                        text={'Created televised local news segments in a team focused environment predicated on deadlines and effective communication to relay news.'}
+                        year={'Mar 2016 - Aug 2020'}
+                        title={'Co-Founder & Senior Marketer- LocalDawgs'}
+                        subTitle={'LocalDawgs'}
+                        text={'Research and analyze indusrty trends, competition, and intellectual property. Optimize resources within assigned areas. Assist in development and maintenacne of all digital marketing areas.'}
                     />
                     </div>
                 </div>
