@@ -1,17 +1,16 @@
 import eCommerceORM from '../Images/portfolio/eCommerceORM.jpg'
 import employeeTracker from '../Images/portfolio/employeeTracker.jpg'
-import javascriptQuiz from '../Images/portfolio/javascriptQuiz.jpg'
-import noteTaker from '../Images/portfolio/noteTaker.jpg'
 import passwordGenerator from '../Images/portfolio/passwordGenerator.jpg'
 import readMeGenerator from '../Images/portfolio/readMeGenerator.jpg'
 import socialAPIShell from '../Images/portfolio/socialAPIShell.jpg'
 import teamBuilder from '../Images/portfolio/teamBuilder.jpg'
-import techBlog from '../Images/portfolio/techBlog.jpg'
 import weatherDashboard from '../Images/portfolio/weatherDashboard.jpg'
 import PhotoPort from '../Images/portfolio/PhotoPort.jpg'
 import WhatsHappenin from '../Images/portfolio/WhatsHappenin.jpg'
 import BudgetTracker from '../Images/portfolio/BudgetTracker.jpg'
 import PizzaHunt from '../Images/portfolio/PizzaHunt.jpg'
+import Swapsies from '../Images/portfolio/Swapsies.jpg'
+import FoodFestival from '../Images/portfolio/FoodFestival.jpg'
 
 const portfolios = [
     {
@@ -44,20 +43,20 @@ const portfolios = [
     {
         id: 4,
         category: 'Front-End',
-        image: noteTaker,
-        link1: 'https://github.com/willdarkins/Darkins_Note-Taker_WK-11.git',
-        link2: 'https://agile-springs-22845.herokuapp.com/',
-        title: 'Note Taker',
-        text: 'An application geared towards helping small business owners write and save digital notes. Functionality allows users to organize thoughts and keep track of daily tasks.'
+        image: Swapsies,
+        link1: 'https://github.com/BTantillo/The-Barter-System',
+        link2: 'https://glacial-temple-55453.herokuapp.com/',
+        title: 'Swapsies',
+        text: 'A full stack website using HTML, javascript, models, Node.js, Express.js, Handlbars.js, MySQL , sequalize and more. The purpose was to create a website where people could go to and post on a message board trying to sell items or services or purchase items that have been previously posted.'
     },
     {
         id: 5,
         category: 'Front-End',
         image:  passwordGenerator,
-        link1: 'https://github.com/willdarkins/Pass_Generate_WK3_Darkins.git',
-        link2: 'https://willdarkins.github.io/Pass_Generate_WK3_Darkins/',
+        link1: 'https://github.com/BTantillo/Password-Generator',
+        link2: 'https://btantillo.github.io/Password-Generator/',
         title: 'Password Generator',
-        text: 'Random password generator application that produces strong quality and high security.'
+        text: 'A password generator program that produces a strong, random and highly complex password.'
     },
     {
         id: 6,
@@ -71,6 +70,15 @@ const portfolios = [
     {
         id: 7,
         category: 'Front-End',
+        image:  FoodFestival,
+        link1: 'https://github.com/BTantillo/food-festival',
+        link2: 'https://btantillo.github.io/food-festival/index.html',
+        title: 'Food Festival',
+        text: 'A website that allows you to create a pizza and post its ingredients, then have other people comment on said pizza toppings.'
+    },
+    {
+        id: 8,
+        category: 'Front-End',
         image:  weatherDashboard,
         link1: 'https://github.com/willdarkins/Server-Side-APIs_WK6_Darkins.git',
         link2: 'https://willdarkins.github.io/Server-Side-APIs_WK6_Darkins/',
@@ -78,7 +86,7 @@ const portfolios = [
         text: 'A weather tracking application using Accuweather API providing updated forecasts. Stores forecasts via localstorage.'
     },
     {
-        id: 8,
+        id: 9,
         category: 'Back-End',
         image:  socialAPIShell,
         link1: 'https://github.com/willdarkins/Social-Network-API-Shell.git',
@@ -86,7 +94,7 @@ const portfolios = [
         text: 'A versitile social media focused API utilizing the NoSQL database MongoDB to manage large amounts of unstructured data on a daily basis.'
     },
     {
-        id: 9,
+        id: 10,
         category: 'Back-End',
         image:  eCommerceORM,
         link1: 'https://github.com/willdarkins/darkins_orm-e-commerce_wk13.git',
@@ -94,7 +102,7 @@ const portfolios = [
         text: 'Complete backend logic that utilizes latest technologies to improve performance and function of e-commerce applications in an increasingly competitve digital marketplace'
     },
     {
-        id: 10,
+        id: 11,
         category: 'Back-End',
         image:  employeeTracker,
         link1: 'https://github.com/willdarkins/darkins_employee-tracker_wk12.git',
@@ -102,7 +110,7 @@ const portfolios = [
         text: 'A content managment system geared towards helping small business owners view and manage employee data counter to departments, roles, id\'s and salaries.'
     },
     {
-        id: 11,
+        id: 12,
         category: 'Back-End',
         image:  teamBuilder,
         link1: 'https://github.com/willdarkins/Darkins_OOP-Challenge.git',
@@ -110,7 +118,7 @@ const portfolios = [
         text: 'A command line interface focused application allows managers to display basic information about team members.'
     },
     {
-        id: 12,
+        id: 13,
         category: 'Back-End',
         image:  readMeGenerator,
         link1: 'https://github.com/willdarkins/Darkins_README-Generator_WK-9.git',
