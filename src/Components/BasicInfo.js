@@ -74,7 +74,7 @@ function BasicInfo() {
                         <p>Age</p>
                         <p>Location</p>
                         <p>School</p>
-                        <p>Postion</p>
+                        <p>Current Employment</p>
                         <p>Favorite Activity</p>
                     </div>
                     <div className='info'>

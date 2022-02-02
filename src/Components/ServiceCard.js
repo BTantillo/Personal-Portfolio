@@ -75,7 +75,6 @@ function ServiceCard({ icon, title, paragraph, button }) {
                     <p>{icon}</p>
                     <h4>{title}</h4>
                     <p>{paragraph}</p>
-                    <button><a href='https://www.audacy.com/1080thefan/podcasts/the-sinner-and-the-saint-20360' target='_blank' rel='noopener noreferrer'>{button}</a></button>
                 </div>
             </CardStyles>
         </motion.div>

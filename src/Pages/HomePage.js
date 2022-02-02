@@ -75,7 +75,7 @@ function HomePage() {
                 <div className='intro'>
                     <h1>Hello! I'm Ben <span>Welcome to My World</span></h1>
                     <p>
-                    For as long as I can remember I have always had a sense of adventure. From the hills of New Jersey, the mountains of West Virginia 
+                    For as long as I can remember I have always had a sense of adventure. From the hills of New Jersey, to the mountains of West Virginia, along the shores of the Boston Harbor, and now in the Pacific Northwest in Oregon. My life has been full of adventures and I cannot wait to see where my next adventure takes me! 
                     </p>
                     <div className='icon-list'>
                         <a href='https://www.linkedin.com/in/benedict-tantillo-275a9a143/' className='icon' target="_blank" >

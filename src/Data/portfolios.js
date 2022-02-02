@@ -9,25 +9,26 @@ import socialAPIShell from '../Images/portfolio/socialAPIShell.jpg'
 import teamBuilder from '../Images/portfolio/teamBuilder.jpg'
 import techBlog from '../Images/portfolio/techBlog.jpg'
 import weatherDashboard from '../Images/portfolio/weatherDashboard.jpg'
-import scrollDown from '../Images/portfolio/scrollDown.jpg'
+import PhotoPort from '../Images/portfolio/PhotoPort.jpg'
+import WhatsHappenin from '../Images/portfolio/WhatsHappenin.jpg'
 
 const portfolios = [
     {
         id: 1,
         category: 'Front-End',
-        image: scrollDown,
-        link1: 'https://github.com/willdarkins/the_scroll_down.git',
-        link2: 'https://the-scroll-down.herokuapp.com/',
-        title: 'The Scroll Down',
-        text: 'A simple React news application utilizing Material UI and Framer motion on the front end, while ApolloGraphQL is the structural basis of the backend'
+        image: WhatsHappenin,
+        link1: 'https://github.com/BTantillo/The-Final-Project',
+        link2: 'https://fast-taiga-42173.herokuapp.com/',
+        title: `Whats Happenin'`,
+        text: 'A full stack webpage utilizing React'
     },
     {
         id: 2,
         category: 'Front-End',
-        image: techBlog,
-        link1: 'https://github.com/willdarkins/darkins_tech-blog_wk14.git',
-        link2: 'https://darkins-tech-blog-wk14.herokuapp.com/',
-        title: 'Tech-Blog',
+        image: PhotoPort,
+        link1: 'https://github.com/BTantillo/Photo-Port',
+        link2: 'https://btantillo.github.io/Photo-Port/',
+        title: 'Photo Port',
         text: 'A full stack CMS style blog site that allows developers to publish articles, write blog posts and express general thoughts on the computer science industry, while using a simple and attractive UI.'
     },
     {

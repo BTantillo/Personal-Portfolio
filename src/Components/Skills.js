@@ -69,10 +69,9 @@ function Skills() {
                     </div>
                     <div className='last-card'>
                     <ServiceCard
-                        button={'LISTEN!'}
                         icon={podcast}
-                        title={'Communcations'}
-                        paragraph={' For the past ten years I have been in customer service in various '}
+                        title={'Consumer Facing Roles'}
+                        paragraph={' For the past ten years I have been in customer service in various different parts of the US. From managing a sports bar & nightclub, a large beer hall at a brewery, and a large retail store, I have be effectively communicating in every type of setting I’ve ever been in. Whether in person, or other means, I can always get my point across and know how to ask the right questions to understand the other person’s responses.  '}
                     />
                     </div>
                 </div>
