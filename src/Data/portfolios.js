@@ -1,7 +1,7 @@
 import PasswordGen from '../Images/portfolio/PasswordGen.jpg'
 import PhotoPort from '../Images/portfolio/PhotoPort.jpg'
 import WhatsHappenin from '../Images/portfolio/WhatsHappenin.jpg'
-import BudgetTracker from '../Images/portfolio/BudgetTracker.jpg'
+import BudgetTrack from '../Images/portfolio/BudgetTrack.jpg'
 import PizzaHunt from '../Images/portfolio/PizzaHunt.jpg'
 import Swapsies from '../Images/portfolio/Swapsies.jpg'
 import FoodFestival from '../Images/portfolio/FoodFestival.jpg'
@@ -34,7 +34,7 @@ const portfolios = [
     {
         id: 3,
         category: 'Front-End',
-        image: BudgetTracker,
+        image: BudgetTrack,
         link1: 'https://github.com/BTantillo/Budget-Tracker',
         link2: 'https://nameless-lake-21665.herokuapp.com/',
         title: 'Budget Tracker',
