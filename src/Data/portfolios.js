@@ -1,4 +1,4 @@
-import PasswordGenerator from '../Images/portfolio/PasswordGenerator.jpg'
+import PasswordGen from '../Images/portfolio/PasswordGen.jpg'
 import PhotoPort from '../Images/portfolio/PhotoPort.jpg'
 import WhatsHappenin from '../Images/portfolio/WhatsHappenin.jpg'
 import BudgetTracker from '../Images/portfolio/BudgetTracker.jpg'
@@ -52,7 +52,7 @@ const portfolios = [
     {
         id: 5,
         category: 'Front-End',
-        image:  PasswordGenerator,
+        image:  PasswordGen,
         link1: 'https://github.com/BTantillo/Password-Generator',
         link2: 'https://btantillo.github.io/Password-Generator/',
         title: 'Password Generator',
