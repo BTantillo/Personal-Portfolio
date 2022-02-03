@@ -80,7 +80,7 @@ const portfolios = [
         id: 8,
         category: 'Front-End',
         image:  TaskmasterPro,
-        link1: 'https://github.com/willdarkins/Server-Side-APIs_WK6_Darkins.git',
+        link1: 'https://github.com/BTantillo/taskmaster-pro2',
         link2: 'https://btantillo.github.io/taskmaster-pro2/',
         title: 'Taskmaster Pro',
         text: ' A website designed to help people stay organized and can assign tasks to certain stages of development .'
