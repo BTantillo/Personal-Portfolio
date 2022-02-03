@@ -74,7 +74,7 @@ const portfolios = [
         link1: 'https://github.com/BTantillo/food-festival',
         link2: 'https://btantillo.github.io/food-festival/index.html',
         title: 'Food Festival',
-        text: 'A website that allows you to create a pizza and post its ingredients, then have other people comment on said pizza toppings.'
+        text: 'A website for a local food festival that a user could look up showtimes, get event info, and buy tickets to said events.'
     },
     {
         id: 8,
