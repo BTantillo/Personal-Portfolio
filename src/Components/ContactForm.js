@@ -24,7 +24,7 @@ function ContactForm() {
 
     function sendEmail(e) {
         e.preventDefault();
-        emailjs.sendForm('service_2fcut27', 'template_wnqz4ne', e.target, 'user_F3ErUPqMSbHgDujuoAaTe')
+        emailjs.sendForm('service_2fcut27', 'template_hpgippk', e.target, 'user_F3ErUPqMSbHgDujuoAaTe')
             .then((result) => {
                 console.log(result.text);
                 alert('Email sent successfully!')
