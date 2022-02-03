@@ -64,8 +64,8 @@ function Contact() {
                             <ContactForm />
                         </div>
                         <div className='contact-cards'>
-                            <ContactCard title={'Phone'} icon={phone} contact1={'C: 908-268-8346'} contact2={'W: '} />
-                            <ContactCard title={'Email'} icon={email} contact1={'P: BenTantillo@gmail.com'} contact2={'W: '} />
+                            <ContactCard title={'Phone'} icon={phone} contact1={'C: 908-268-8346'} contact2={' '} />
+                            <ContactCard title={'Email'} icon={email} contact1={'P: BenTantillo@gmail.com'} contact2={' '} />
                             <ContactCard title={'Address'} icon={location} contact1={'PNW'} contact2={'Portland, OR '} />
                         </div>
                     </InnerLayout>
