@@ -37,8 +37,8 @@ function ContactForm() {
         <ContactCardStyles>
             <Card style={{ maxWidth: 535, margin: '0 auto' }} className={'card'}>
                 <CardContent>
-                    <Typography gutterBottom variant='h5'>Reach out and say hello!</Typography>
-                    <Typography gutterBottom variant='body2' color='textsecondary' component='p'>I'll respond ASAP to questions and work inquires</Typography>
+                    <Typography gutterBottom variant='h5'>Feel Free To Reach Out!</Typography>
+                    <Typography gutterBottom variant='body2' color='textsecondary' component='p'>I'll get back to you ASAP regarding any questions or work inquires</Typography>
                     <form onSubmit={sendEmail}>
                         <Grid container spacing={2}>
                             <Grid xs={12} item></Grid>
