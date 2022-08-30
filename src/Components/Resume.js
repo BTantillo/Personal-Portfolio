@@ -30,6 +30,12 @@ function Resume() {
                     <ResumeSectionTitle icon={work} title={'Work Experience'} />
                 </div>
                 <div className='resume-content'>
+                <ResumeItem
+                        year={'Jan 2022 - PRESENT'}
+                        title={'Web Developer - Gameplan Digital'}
+                        subTitle={'Gameplan Digital'}
+                        text={'Develop web applications using HTML, JavaScript, Python, Bootstrap, and React. Troubleshoot previous projects and implement updates making the application operate more smoothly. Responds to customer inquiries, issues, and any updates requests. Work closely with developers, designers, and other cross functional team members.'}
+                    />
                     <ResumeItem
                         year={'Nov 2020 - PRESENT'}
                         title={'Supervisor - Danner'}
@@ -40,7 +46,7 @@ function Resume() {
                         year={'Sept 2017 - March 2020'}
                         title={'Operations and Beer Hall Manager - Mass Bay Brewing Company'}
                         subTitle={'Harpoon Brewery'}
-                        text={'Hire adn train all staff to perform multiple tasks. Supervise over 25 support staff and maintain staffing levels. Determine which new products to offer based on availibility. Maintain all equiptment to make sure everthing is operationg smoothly.'}
+                        text={'Hire and train all staff to perform multiple tasks. Supervise over 25 support staff and maintain staffing levels. Determine which new products to offer based on availibility. Maintain all equiptment to make sure everthing is operationg smoothly.'}
                     />
                     <div className='margin-bottom'>
                     <ResumeItem
