@@ -11,12 +11,13 @@ import eCommORM from '../Images/portfolio/eCommORM.jpg'
 import EmployeeTracker from '../Images/portfolio/EmployeeTrack.jpg'
 import TeamBuild from '../Images/portfolio/TeamBuild.jpg'
 import ReadmeGen from '../Images/portfolio/ReadmeGen.jpg'
+import HoneyBunchies from '../Images/portfolio/HoneyBunchies.jpg'
 
 const portfolios = [
     {
         id: 1,
         category: 'Front-End',
-        image: WhatsHappenin,
+        image: HoneyBunchies,
         link1: 'https://honeybunchies.com/',
         link2: 'https://honeybunchies.com/',
         title: `Honey Bunchies `,
