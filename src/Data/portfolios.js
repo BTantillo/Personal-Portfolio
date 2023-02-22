@@ -17,13 +17,22 @@ const portfolios = [
         id: 1,
         category: 'Front-End',
         image: WhatsHappenin,
+        link1: 'https://honeybunchies.com/',
+        link2: 'https://honeybunchies.com/',
+        title: `Honey Bunchies `,
+        text: 'An HTML website used by a company to market food products and where to locate them in stores around the country.'
+    },
+    {
+        id: 2,
+        category: 'Front-End',
+        image: WhatsHappenin,
         link1: 'https://github.com/BTantillo/The-Final-Project',
         link2: 'https://fast-taiga-42173.herokuapp.com/',
         title: `Whats Happenin'`,
         text: 'A full stack webpage utilizing React. It was created as an events page, where people could go to and post events they were hosting as well as see posted events and be able to comment on them.'
     },
     {
-        id: 2,
+        id: 3,
         category: 'Front-End',
         image: PhotoPort,
         link1: 'https://github.com/BTantillo/Photo-Port',
@@ -32,7 +41,7 @@ const portfolios = [
         text: `A React application meant to showcase a photographer's website, and display the different types of photos they could shoot. `
     },
     {
-        id: 3,
+        id: 4,
         category: 'Front-End',
         image: BudgetTrack,
         link1: 'https://github.com/BTantillo/Budget-Tracker',
@@ -41,7 +50,7 @@ const portfolios = [
         text: 'A  budget tracking application with Progressive Web Application functionality, allowing peoples to track their funds with or without a data/internet connection and maintain an accurate balance.'
     },
     {
-        id: 4,
+        id: 5,
         category: 'Front-End',
         image: Swapsies,
         link1: 'https://github.com/BTantillo/The-Barter-System',
@@ -50,7 +59,7 @@ const portfolios = [
         text: 'A full stack website using HTML, javascript, models, Node.js, Express.js, Handlbars.js, MySQL , sequalize and more. The purpose was to create a website where people could go to and post on a message board trying to sell items or services or purchase items that have been previously posted.'
     },
     {
-        id: 5,
+        id: 6,
         category: 'Front-End',
         image:  PasswordGen,
         link1: 'https://github.com/BTantillo/Password-Generator',
@@ -59,7 +68,7 @@ const portfolios = [
         text: 'A password generator program that produces a strong, random and highly complex password.'
     },
     {
-        id: 6,
+        id: 7,
         category: 'Front-End',
         image:  PizzaHunt,
         link1: 'https://github.com/BTantillo/pizza-hunt',
@@ -68,7 +77,7 @@ const portfolios = [
         text: 'A website that allows you to create a pizza and post its ingredients, then have other people comment on said pizza toppings.'
     },
     {
-        id: 7,
+        id: 8,
         category: 'Front-End',
         image:  FoodFestival,
         link1: 'https://github.com/BTantillo/food-festival',
@@ -77,7 +86,7 @@ const portfolios = [
         text: 'A website for a local food festival that a user could look up showtimes, get event info, and buy tickets to said events.'
     },
     {
-        id: 8,
+        id: 9,
         category: 'Front-End',
         image:  TaskmasterPro,
         link1: 'https://github.com/BTantillo/taskmaster-pro2',
@@ -86,7 +95,7 @@ const portfolios = [
         text: ' A website designed to help people stay organized and can assign tasks to certain stages of development .'
     },
     {
-        id: 9,
+        id: 10,
         category: 'Back-End',
         image:  SocialAPI,
         link1: 'https://github.com/BTantillo/Social-Network-API-Challenge-18',
@@ -94,7 +103,7 @@ const portfolios = [
         text: 'A  social media API utilizing a NoSQL database and MongoDB to manage large amounts of unstructured data.'
     },
     {
-        id: 10,
+        id: 11,
         category: 'Back-End',
         image:  eCommORM,
         link1: 'https://github.com/BTantillo/ORM-Challenge-13',
@@ -102,7 +111,7 @@ const portfolios = [
         text: 'A full Object Relational Mapping backend that utilizes different technologies to improve performance and function of an e-commerce application'
     },
     {
-        id: 11,
+        id: 12,
         category: 'Back-End',
         image:  EmployeeTracker,
         link1: 'https://github.com/BTantillo/Employee-Tracker',
@@ -110,7 +119,7 @@ const portfolios = [
         text: 'A program to be used by an employeer to track which employees work in which department, how much they make, who they report to in order to keep an accurate employee roster'
     },
     {
-        id: 12,
+        id: 13,
         category: 'Back-End',
         image:  TeamBuild,
         link1: 'https://github.com/BTantillo/Team-Profile',
@@ -118,7 +127,7 @@ const portfolios = [
         text: 'A command line interface  application that allows employeers to display basic information about their team members.'
     },
     {
-        id: 13,
+        id: 14,
         category: 'Back-End',
         image:  ReadmeGen,
         link1: 'https://github.com/BTantillo/README-Generator',
